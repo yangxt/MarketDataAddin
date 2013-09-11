@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketDataAddin", "MarketDataAddin\MarketDataAddin.csproj", "{72F75BBA-D2F4-45AA-9EFC-566B80069824}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MarketDataAddinSetup", "MarketDataAddinSetup\MarketDataAddinSetup.vdproj", "{17E5A0F6-619B-4B01-AB9A-3EAE73AB113A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F75BBA-D2F4-45AA-9EFC-566B80069824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F75BBA-D2F4-45AA-9EFC-566B80069824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F75BBA-D2F4-45AA-9EFC-566B80069824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F75BBA-D2F4-45AA-9EFC-566B80069824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E5A0F6-619B-4B01-AB9A-3EAE73AB113A}.Debug|Any CPU.ActiveCfg = Debug
+		{17E5A0F6-619B-4B01-AB9A-3EAE73AB113A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
